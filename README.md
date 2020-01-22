@@ -20,7 +20,7 @@ Think about your talk as a short pitch. It will be helpful to practice your talk
 
 For our purposes, a lightning talk is a talk lasting **no more than 5 minutes**.
 
-You could prepare slides for your talk to help you explain. _But all slides will be shown from a single laptop._
+You could prepare slides for your talk to help you explain.
 
 **Time limits will be strictly enforced.**
 
